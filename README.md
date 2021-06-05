@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hallandev
-- 👀 I’m interested in aprender a progrmar
+- 👀 I’m interested in aprender a programar(sou leigo ainda)
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on crianção de programas e games 
 - 📫 How to reach me pelo email hallansantos2017@gmail.com
